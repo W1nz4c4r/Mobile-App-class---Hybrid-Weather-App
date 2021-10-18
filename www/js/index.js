@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function(){
 });
 
 //weather API KEY
-const WEATHER_API_KEY  = "db33b5dca6feb01d8886c9327d45f649";
+const WEATHER_API_KEY  = "**YOUR API KEY-**";
 const URL = "https://api.openweathermap.org/data/2.5/weather?appid=";
 
 

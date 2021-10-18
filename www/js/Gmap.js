@@ -6,7 +6,7 @@ class Gmap extends HTMLIFrameElement{
         this.lat = latitude.toString();
         this.lon = longitude.toString();
         this.zoomv = zoom;
-        this.API_KEY = "AIzaSyBdToDvLYaJxlHb3BnFYWb2OyljWHlItCg"; //PUT YOUR API KEY HERE
+        this.API_KEY = "**API_KEY**"; //PUT YOUR API KEY HERE
         this.setAttribute("src",this.getSrc());
         this.setAttribute("width",width);
         this.setAttribute("height",height);
