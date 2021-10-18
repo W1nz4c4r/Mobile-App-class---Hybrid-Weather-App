@@ -1,3 +1,2 @@
-project made for a mobile apps class
-Basic weather app powered by openWeatherMaps 
-by:Winzacar
+# Mobile App class -  Hybrid Weather App
+ project meant to work as a basic weather page ( can look the weather anywhere around the world). the search of info is made by usign OpenWeatherMaps API
